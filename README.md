@@ -65,7 +65,11 @@ OutTimedOutInterests measurements of outgoing satisfied Interests (per outgoing 
 
 
 
-# No of Hidden Layers = 20
+# No of Hidden Layers = 2
+
+
+
+# No of nodes in the Hidden Layers = 20
 
 
 
